@@ -1,0 +1,97 @@
+Libelle_departement,predicted_party2027_pred2027,La France insoumise_pred2027,Les Republicains_pred2027,Rassemblement National_pred2027,Renaissance_pred2027,Union populaire republicaine_pred2027,predicted_party2024_pred2024,La France insoumise_pred2024,Les Republicains_pred2024,Rassemblement National_pred2024,Renaissance_pred2024,Union populaire republicaine_pred2024,predicted_party2025_pred2025,La France insoumise_pred2025,Les Reublicains_pred2025,Rassemblement National_pred2025,Renaissance_pred2025,Union populaire republicaine_pred2025,predicted_party2026_pred2026,La France insoumise_pred2026,Les Republicains_pred2026,Rassemblement National_pred2026,Renaissance_pred2026,Union populaire republicaine_pred2026
+ain,Renaissance,0.0,0.06,0.17,0.77,0.0,Renaissance,0.0,0.04,0.24,0.72,0.0,Renaissance,0.0,0.06,0.24,0.7,0.0,Renaissance,0.0,0.07,0.22,0.71,0.0
+aisne,Rassemblement National,0.01,0.0,0.97,0.02,0.0,Rassemblement National,0.01,0.0,0.97,0.02,0.0,Rassemblement National,0.01,0.0,0.97,0.02,0.0,Rassemblement National,0.01,0.0,0.97,0.02,0.0
+corse-du-sud,Rassemblement National,0.02,0.01,0.86,0.11,0.0,Rassemblement National,0.02,0.01,0.86,0.11,0.0,Rassemblement National,0.02,0.01,0.87,0.1,0.0,Rassemblement National,0.02,0.01,0.87,0.1,0.0
+haute-corse,Rassemblement National,0.0,0.03,0.94,0.03,0.0,Rassemblement National,0.0,0.01,0.93,0.06,0.0,Rassemblement National,0.0,0.02,0.94,0.04,0.0,Rassemblement National,0.0,0.02,0.94,0.04,0.0
+allier,Rassemblement National,0.0,0.0,0.75,0.25,0.0,Rassemblement National,0.0,0.0,0.75,0.25,0.0,Rassemblement National,0.0,0.0,0.77,0.23,0.0,Rassemblement National,0.0,0.0,0.78,0.22,0.0
+alpes-de-haute-provence,Rassemblement National,0.09,0.0,0.81,0.1,0.0,Rassemblement National,0.07,0.0,0.83,0.1,0.0,Rassemblement National,0.09,0.0,0.81,0.1,0.0,Rassemblement National,0.09,0.0,0.81,0.1,0.0
+hautes-alpes,Renaissance,0.07,0.0,0.23,0.7,0.0,Renaissance,0.0,0.0,0.06,0.94,0.0,Renaissance,0.03,0.0,0.18,0.79,0.0,Renaissance,0.05,0.0,0.2,0.75,0.0
+alpes-maritimes,Rassemblement National,0.05,0.0,0.84,0.11,0.0,Rassemblement National,0.02,0.0,0.93,0.05,0.0,Rassemblement National,0.02,0.0,0.92,0.06,0.0,Rassemblement National,0.05,0.0,0.88,0.07,0.0
+ardeche,Rassemblement National,0.0,0.0,0.96,0.04,0.0,Rassemblement National,0.0,0.0,0.97,0.03,0.0,Rassemblement National,0.0,0.0,0.91,0.09,0.0,Rassemblement National,0.0,0.0,0.93,0.07,0.0
+ardennes,Rassemblement National,0.0,0.0,0.95,0.05,0.0,Rassemblement National,0.0,0.0,0.95,0.05,0.0,Rassemblement National,0.0,0.0,0.95,0.05,0.0,Rassemblement National,0.0,0.0,0.95,0.05,0.0
+ariege,La France insoumise,0.83,0.0,0.14,0.03,0.0,La France insoumise,0.83,0.0,0.14,0.03,0.0,La France insoumise,0.83,0.0,0.14,0.03,0.0,La France insoumise,0.83,0.0,0.14,0.03,0.0
+aube,Rassemblement National,0.0,0.0,1.0,0.0,0.0,Rassemblement National,0.0,0.0,1.0,0.0,0.0,Rassemblement National,0.0,0.0,1.0,0.0,0.0,Rassemblement National,0.0,0.0,1.0,0.0,0.0
+aude,Rassemblement National,0.01,0.0,0.99,0.0,0.0,Rassemblement National,0.0,0.0,1.0,0.0,0.0,Rassemblement National,0.01,0.0,0.99,0.0,0.0,Rassemblement National,0.01,0.0,0.99,0.0,0.0
+aveyron,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.01,0.0,0.99,0.0,Renaissance,0.0,0.0,0.0,1.0,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0
+bouches-du-rhone,Rassemblement National,0.02,0.0,0.96,0.02,0.0,Rassemblement National,0.02,0.0,0.94,0.04,0.0,Rassemblement National,0.02,0.0,0.95,0.03,0.0,Rassemblement National,0.02,0.0,0.96,0.02,0.0
+calvados,Renaissance,0.0,0.05,0.29,0.66,0.0,Renaissance,0.0,0.01,0.22,0.77,0.0,Renaissance,0.0,0.03,0.26,0.71,0.0,Renaissance,0.0,0.04,0.31,0.65,0.0
+cantal,Renaissance,0.0,0.01,0.19,0.75,0.05,Renaissance,0.0,0.01,0.19,0.75,0.05,Renaissance,0.0,0.01,0.19,0.75,0.05,Renaissance,0.0,0.01,0.19,0.75,0.05
+charente,Rassemblement National,0.0,0.0,0.7,0.3,0.0,Renaissance,0.0,0.0,0.25,0.75,0.0,Renaissance,0.0,0.0,0.48,0.52,0.0,Rassemblement National,0.0,0.0,0.59,0.41,0.0
+charente-maritime,Rassemblement National,0.0,0.02,0.76,0.22,0.0,Rassemblement National,0.01,0.03,0.69,0.27,0.0,Rassemblement National,0.0,0.03,0.75,0.22,0.0,Rassemblement National,0.01,0.02,0.75,0.22,0.0
+cher,Rassemblement National,0.0,0.0,0.86,0.14,0.0,Rassemblement National,0.0,0.01,0.85,0.14,0.0,Rassemblement National,0.0,0.0,0.88,0.12,0.0,Rassemblement National,0.0,0.0,0.86,0.14,0.0
+correze,Renaissance,0.0,0.01,0.18,0.81,0.0,Renaissance,0.0,0.0,0.11,0.89,0.0,Renaissance,0.0,0.01,0.13,0.86,0.0,Renaissance,0.0,0.01,0.15,0.84,0.0
+cote-d'or,Renaissance,0.0,0.0,0.02,0.98,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0
+cotes-d'armor,Renaissance,0.0,0.03,0.1,0.87,0.0,Renaissance,0.01,0.0,0.04,0.95,0.0,Renaissance,0.03,0.02,0.07,0.88,0.0,Renaissance,0.0,0.02,0.09,0.89,0.0
+creuse,Rassemblement National,0.17,0.01,0.59,0.22,0.01,Rassemblement National,0.04,0.0,0.71,0.24,0.01,Rassemblement National,0.07,0.0,0.68,0.24,0.01,Rassemblement National,0.09,0.01,0.69,0.2,0.01
+dordogne,Rassemblement National,0.0,0.0,0.91,0.09,0.0,Rassemblement National,0.0,0.0,0.88,0.12,0.0,Rassemblement National,0.0,0.0,0.89,0.11,0.0,Rassemblement National,0.0,0.0,0.91,0.09,0.0
+doubs,Renaissance,0.0,0.0,0.37,0.63,0.0,Renaissance,0.0,0.0,0.3,0.7,0.0,Renaissance,0.0,0.0,0.3,0.7,0.0,Renaissance,0.0,0.0,0.38,0.62,0.0
+drome,Rassemblement National,0.01,0.0,0.51,0.48,0.0,Renaissance,0.0,0.0,0.35,0.65,0.0,Renaissance,0.0,0.0,0.44,0.56,0.0,Renaissance,0.01,0.0,0.44,0.55,0.0
+eure,Rassemblement National,0.0,0.01,0.93,0.06,0.0,Rassemblement National,0.0,0.02,0.94,0.04,0.0,Rassemblement National,0.0,0.01,0.94,0.05,0.0,Rassemblement National,0.0,0.01,0.93,0.06,0.0
+eure-et-loir,Rassemblement National,0.0,0.01,0.85,0.14,0.0,Rassemblement National,0.0,0.0,0.91,0.09,0.0,Rassemblement National,0.0,0.01,0.84,0.15,0.0,Rassemblement National,0.0,0.01,0.86,0.13,0.0
+finistere,Renaissance,0.06,0.02,0.02,0.9,0.0,Renaissance,0.0,0.02,0.0,0.98,0.0,Renaissance,0.02,0.02,0.0,0.96,0.0,Renaissance,0.05,0.02,0.0,0.93,0.0
+gard,Rassemblement National,0.05,0.0,0.91,0.04,0.0,Rassemblement National,0.03,0.0,0.93,0.04,0.0,Rassemblement National,0.03,0.0,0.93,0.04,0.0,Rassemblement National,0.04,0.0,0.92,0.04,0.0
+haute-garonne,Renaissance,0.18,0.0,0.08,0.74,0.0,Renaissance,0.05,0.0,0.03,0.92,0.0,Renaissance,0.07,0.0,0.05,0.88,0.0,Renaissance,0.1,0.0,0.07,0.83,0.0
+gers,Renaissance,0.0,0.0,0.16,0.84,0.0,Renaissance,0.0,0.0,0.12,0.88,0.0,Renaissance,0.0,0.0,0.12,0.88,0.0,Renaissance,0.0,0.0,0.13,0.87,0.0
+gironde,Renaissance,0.16,0.0,0.19,0.65,0.0,Renaissance,0.0,0.0,0.05,0.95,0.0,Renaissance,0.11,0.0,0.19,0.7,0.0,Renaissance,0.13,0.0,0.2,0.67,0.0
+herault,Rassemblement National,0.08,0.0,0.89,0.03,0.0,Rassemblement National,0.04,0.0,0.93,0.03,0.0,Rassemblement National,0.08,0.0,0.89,0.03,0.0,Rassemblement National,0.08,0.0,0.89,0.03,0.0
+ille-et-vilaine,Renaissance,0.02,0.0,0.01,0.97,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.01,0.0,0.01,0.98,0.0
+indre,Rassemblement National,0.0,0.01,0.9,0.09,0.0,Rassemblement National,0.0,0.0,0.94,0.06,0.0,Rassemblement National,0.0,0.0,0.93,0.07,0.0,Rassemblement National,0.0,0.0,0.91,0.09,0.0
+indre-et-loire,Renaissance,0.0,0.05,0.34,0.61,0.0,Renaissance,0.0,0.01,0.13,0.86,0.0,Renaissance,0.0,0.02,0.2,0.78,0.0,Renaissance,0.0,0.02,0.25,0.73,0.0
+isere,Renaissance,0.06,0.0,0.0,0.94,0.0,Renaissance,0.04,0.0,0.0,0.96,0.0,Renaissance,0.05,0.0,0.0,0.95,0.0,Renaissance,0.05,0.0,0.0,0.95,0.0
+jura,Rassemblement National,0.0,0.0,0.62,0.38,0.0,Rassemblement National,0.0,0.02,0.81,0.17,0.0,Rassemblement National,0.0,0.01,0.76,0.23,0.0,Rassemblement National,0.0,0.0,0.62,0.38,0.0
+landes,Rassemblement National,0.0,0.01,0.58,0.41,0.0,Renaissance,0.0,0.01,0.28,0.71,0.0,Renaissance,0.0,0.01,0.36,0.63,0.0,Rassemblement National,0.0,0.01,0.52,0.47,0.0
+loir-et-cher,Renaissance,0.0,0.01,0.26,0.73,0.0,Renaissance,0.0,0.0,0.17,0.83,0.0,Renaissance,0.0,0.01,0.18,0.81,0.0,Renaissance,0.0,0.01,0.2,0.79,0.0
+loire,Rassemblement National,0.02,0.0,0.63,0.35,0.0,Renaissance,0.0,0.0,0.25,0.75,0.0,Rassemblement National,0.0,0.0,0.5,0.5,0.0,Rassemblement National,0.0,0.0,0.59,0.41,0.0
+haute-loire,Rassemblement National,0.0,0.0,0.66,0.34,0.0,Rassemblement National,0.0,0.0,0.72,0.28,0.0,Rassemblement National,0.0,0.0,0.67,0.33,0.0,Rassemblement National,0.0,0.0,0.66,0.34,0.0
+loire-atlantique,Renaissance,0.04,0.0,0.0,0.96,0.0,Renaissance,0.01,0.0,0.0,0.99,0.0,Renaissance,0.02,0.0,0.0,0.98,0.0,Renaissance,0.02,0.0,0.0,0.98,0.0
+loiret,Rassemblement National,0.02,0.01,0.73,0.24,0.0,Rassemblement National,0.0,0.02,0.52,0.46,0.0,Rassemblement National,0.0,0.01,0.66,0.33,0.0,Rassemblement National,0.0,0.01,0.73,0.26,0.0
+lot,Renaissance,0.08,0.01,0.45,0.46,0.0,Renaissance,0.04,0.01,0.3,0.65,0.0,Renaissance,0.05,0.01,0.34,0.6,0.0,Renaissance,0.06,0.02,0.33,0.59,0.0
+lot-et-garonne,Rassemblement National,0.0,0.0,0.9,0.1,0.0,Rassemblement National,0.0,0.0,0.94,0.06,0.0,Rassemblement National,0.0,0.0,0.94,0.06,0.0,Rassemblement National,0.0,0.0,0.95,0.05,0.0
+lozere,Renaissance,0.0,0.01,0.11,0.68,0.2,Renaissance,0.0,0.01,0.1,0.68,0.21,Renaissance,0.0,0.01,0.1,0.68,0.21,Renaissance,0.0,0.01,0.11,0.68,0.2
+maine-et-loire,Renaissance,0.03,0.03,0.15,0.79,0.0,Renaissance,0.03,0.01,0.05,0.91,0.0,Renaissance,0.03,0.01,0.13,0.83,0.0,Renaissance,0.03,0.01,0.13,0.83,0.0
+manche,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0
+marne,Rassemblement National,0.0,0.02,0.73,0.25,0.0,Rassemblement National,0.0,0.0,0.84,0.16,0.0,Rassemblement National,0.0,0.03,0.77,0.2,0.0,Rassemblement National,0.0,0.04,0.74,0.22,0.0
+haute-marne,Rassemblement National,0.0,0.01,0.88,0.11,0.0,Rassemblement National,0.0,0.0,0.9,0.1,0.0,Rassemblement National,0.0,0.0,0.87,0.13,0.0,Rassemblement National,0.0,0.0,0.88,0.12,0.0
+mayenne,Renaissance,0.0,0.16,0.05,0.79,0.0,Renaissance,0.0,0.2,0.04,0.76,0.0,Renaissance,0.0,0.2,0.04,0.76,0.0,Renaissance,0.0,0.16,0.05,0.79,0.0
+meurthe-et-moselle,Rassemblement National,0.01,0.0,0.9,0.09,0.0,Rassemblement National,0.0,0.0,0.94,0.06,0.0,Rassemblement National,0.0,0.0,0.91,0.09,0.0,Rassemblement National,0.0,0.0,0.93,0.07,0.0
+meuse,Rassemblement National,0.0,0.0,0.9,0.1,0.0,Rassemblement National,0.0,0.0,0.94,0.06,0.0,Rassemblement National,0.0,0.0,0.92,0.08,0.0,Rassemblement National,0.0,0.0,0.91,0.09,0.0
+morbihan,Renaissance,0.0,0.0,0.08,0.92,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.02,0.98,0.0,Renaissance,0.0,0.0,0.07,0.93,0.0
+moselle,Rassemblement National,0.0,0.0,0.92,0.08,0.0,Rassemblement National,0.0,0.0,0.89,0.11,0.0,Rassemblement National,0.0,0.0,0.9,0.1,0.0,Rassemblement National,0.0,0.0,0.92,0.08,0.0
+nievre,Rassemblement National,0.0,0.0,0.84,0.16,0.0,Rassemblement National,0.0,0.0,0.81,0.19,0.0,Rassemblement National,0.0,0.0,0.81,0.19,0.0,Rassemblement National,0.0,0.0,0.83,0.17,0.0
+nord,Rassemblement National,0.05,0.0,0.93,0.02,0.0,Rassemblement National,0.05,0.0,0.93,0.02,0.0,Rassemblement National,0.05,0.0,0.93,0.02,0.0,Rassemblement National,0.05,0.0,0.93,0.02,0.0
+oise,Rassemblement National,0.0,0.0,0.86,0.14,0.0,Rassemblement National,0.0,0.01,0.88,0.11,0.0,Rassemblement National,0.0,0.01,0.9,0.09,0.0,Rassemblement National,0.0,0.0,0.9,0.1,0.0
+orne,Renaissance,0.0,0.12,0.34,0.54,0.0,Renaissance,0.0,0.2,0.09,0.71,0.0,Renaissance,0.0,0.17,0.19,0.64,0.0,Renaissance,0.0,0.13,0.31,0.56,0.0
+pas-de-calais,Rassemblement National,0.21,0.0,0.66,0.13,0.0,Rassemblement National,0.17,0.0,0.68,0.15,0.0,Rassemblement National,0.17,0.0,0.69,0.14,0.0,Rassemblement National,0.16,0.0,0.7,0.14,0.0
+puy-de-dome,Renaissance,0.0,0.01,0.15,0.84,0.0,Renaissance,0.01,0.01,0.02,0.96,0.0,Renaissance,0.01,0.01,0.06,0.92,0.0,Renaissance,0.01,0.01,0.08,0.9,0.0
+pyrenees-atlantiques,Renaissance,0.0,0.0,0.02,0.98,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0,Renaissance,0.0,0.0,0.01,0.99,0.0
+hautes-pyrenees,Rassemblement National,0.01,0.0,0.56,0.43,0.0,Renaissance,0.01,0.0,0.35,0.64,0.0,Renaissance,0.01,0.0,0.46,0.53,0.0,Rassemblement National,0.01,0.0,0.53,0.46,0.0
+pyrenees-orientales,Rassemblement National,0.01,0.0,0.94,0.05,0.0,Rassemblement National,0.01,0.0,0.94,0.05,0.0,Rassemblement National,0.01,0.0,0.94,0.05,0.0,Rassemblement National,0.01,0.0,0.94,0.05,0.0
+bas-rhin,Renaissance,0.17,0.0,0.03,0.8,0.0,Renaissance,0.11,0.0,0.01,0.88,0.0,Renaissance,0.13,0.0,0.01,0.86,0.0,Renaissance,0.2,0.0,0.02,0.78,0.0
+haut-rhin,Renaissance,0.02,0.02,0.34,0.62,0.0,Renaissance,0.02,0.03,0.12,0.83,0.0,Renaissance,0.03,0.01,0.24,0.72,0.0,Renaissance,0.03,0.02,0.27,0.68,0.0
+rhone,Renaissance,0.13,0.0,0.09,0.78,0.0,Renaissance,0.14,0.0,0.05,0.81,0.0,Renaissance,0.12,0.0,0.05,0.83,0.0,Renaissance,0.11,0.0,0.06,0.83,0.0
+haute-saone,Rassemblement National,0.0,0.03,0.86,0.11,0.0,Rassemblement National,0.0,0.01,0.88,0.11,0.0,Rassemblement National,0.0,0.02,0.85,0.13,0.0,Rassemblement National,0.0,0.01,0.86,0.13,0.0
+saone-et-loire,Renaissance,0.0,0.01,0.2,0.79,0.0,Renaissance,0.0,0.0,0.17,0.83,0.0,Renaissance,0.0,0.0,0.19,0.81,0.0,Renaissance,0.0,0.0,0.2,0.8,0.0
+sarthe,Rassemblement National,0.01,0.11,0.56,0.32,0.0,Renaissance,0.0,0.22,0.09,0.69,0.0,Renaissance,0.0,0.13,0.33,0.54,0.0,Rassemblement National,0.01,0.12,0.45,0.42,0.0
+savoie,Renaissance,0.0,0.0,0.04,0.96,0.0,Renaissance,0.0,0.0,0.0,1.0,0.0,Renaissance,0.0,0.0,0.04,0.96,0.0,Renaissance,0.0,0.0,0.04,0.96,0.0
+haute-savoie,Renaissance,0.0,0.35,0.03,0.62,0.0,Les Republicains,0.0,0.59,0.06,0.35,0.0,Les Republicains,0.0,0.53,0.02,0.45,0.0,Renaissance,0.0,0.37,0.03,0.6,0.0
+paris,Renaissance,0.07,0.0,0.05,0.88,0.0,Renaissance,0.03,0.0,0.04,0.93,0.0,Renaissance,0.04,0.0,0.04,0.92,0.0,Renaissance,0.05,0.0,0.04,0.91,0.0
+seine-maritime,Renaissance,0.12,0.0,0.37,0.51,0.0,Renaissance,0.08,0.0,0.16,0.76,0.0,Renaissance,0.12,0.0,0.2,0.68,0.0,Renaissance,0.13,0.0,0.26,0.61,0.0
+seine-et-marne,La France insoumise,0.71,0.0,0.0,0.29,0.0,La France insoumise,0.7,0.0,0.0,0.3,0.0,La France insoumise,0.71,0.0,0.0,0.29,0.0,La France insoumise,0.71,0.0,0.0,0.29,0.0
+yvelines,Renaissance,0.16,0.0,0.0,0.84,0.0,Renaissance,0.12,0.0,0.0,0.88,0.0,Renaissance,0.15,0.0,0.0,0.85,0.0,Renaissance,0.15,0.0,0.0,0.85,0.0
+deux-sevres,Renaissance,0.0,0.01,0.01,0.98,0.0,Renaissance,0.0,0.02,0.0,0.98,0.0,Renaissance,0.0,0.02,0.0,0.98,0.0,Renaissance,0.0,0.01,0.0,0.99,0.0
+somme,Rassemblement National,0.0,0.0,0.96,0.04,0.0,Rassemblement National,0.0,0.0,0.96,0.04,0.0,Rassemblement National,0.0,0.0,0.96,0.04,0.0,Rassemblement National,0.0,0.0,0.96,0.04,0.0
+tarn,Rassemblement National,0.0,0.0,0.86,0.14,0.0,Rassemblement National,0.0,0.0,0.91,0.09,0.0,Rassemblement National,0.0,0.0,0.9,0.1,0.0,Rassemblement National,0.0,0.0,0.9,0.1,0.0
+tarn-et-garonne,Rassemblement National,0.01,0.0,0.96,0.03,0.0,Rassemblement National,0.01,0.0,0.98,0.01,0.0,Rassemblement National,0.01,0.0,0.98,0.01,0.0,Rassemblement National,0.01,0.0,0.96,0.03,0.0
+var,Rassemblement National,0.0,0.0,0.88,0.12,0.0,Rassemblement National,0.0,0.0,0.96,0.04,0.0,Rassemblement National,0.0,0.0,0.89,0.11,0.0,Rassemblement National,0.0,0.0,0.89,0.11,0.0
+vaucluse,Rassemblement National,0.0,0.01,0.96,0.03,0.0,Rassemblement National,0.0,0.01,0.96,0.03,0.0,Rassemblement National,0.0,0.01,0.96,0.03,0.0,Rassemblement National,0.0,0.01,0.96,0.03,0.0
+vendee,Renaissance,0.0,0.0,0.0,1.0,0.0,Renaissance,0.0,0.01,0.0,0.99,0.0,Renaissance,0.0,0.01,0.0,0.99,0.0,Renaissance,0.0,0.01,0.0,0.99,0.0
+vienne,Renaissance,0.0,0.0,0.02,0.98,0.0,Renaissance,0.0,0.0,0.0,1.0,0.0,Renaissance,0.0,0.0,0.0,1.0,0.0,Renaissance,0.0,0.0,0.0,1.0,0.0
+haute-vienne,Renaissance,0.0,0.01,0.38,0.61,0.0,Renaissance,0.0,0.0,0.09,0.91,0.0,Renaissance,0.0,0.0,0.32,0.68,0.0,Renaissance,0.0,0.0,0.38,0.62,0.0
+vosges,Rassemblement National,0.0,0.0,0.87,0.13,0.0,Rassemblement National,0.0,0.0,0.99,0.01,0.0,Rassemblement National,0.0,0.0,0.99,0.01,0.0,Rassemblement National,0.0,0.0,0.94,0.06,0.0
+yonne,Rassemblement National,0.0,0.03,0.83,0.14,0.0,Rassemblement National,0.0,0.0,0.88,0.12,0.0,Rassemblement National,0.0,0.01,0.86,0.13,0.0,Rassemblement National,0.0,0.01,0.86,0.13,0.0
+territoire de belfort,Rassemblement National,0.19,0.0,0.7,0.11,0.0,Rassemblement National,0.17,0.0,0.75,0.08,0.0,Rassemblement National,0.17,0.0,0.75,0.08,0.0,Rassemblement National,0.18,0.0,0.72,0.1,0.0
+essonne,La France insoumise,0.63,0.0,0.0,0.37,0.0,La France insoumise,0.68,0.0,0.0,0.32,0.0,La France insoumise,0.65,0.0,0.0,0.35,0.0,La France insoumise,0.64,0.0,0.0,0.36,0.0
+hauts-de-seine,Renaissance,0.05,0.0,0.02,0.93,0.0,Renaissance,0.02,0.0,0.01,0.97,0.0,Renaissance,0.02,0.0,0.01,0.97,0.0,Renaissance,0.03,0.0,0.02,0.95,0.0
+seine-saint-denis,La France insoumise,0.84,0.0,0.13,0.03,0.0,La France insoumise,0.85,0.0,0.12,0.03,0.0,La France insoumise,0.84,0.0,0.13,0.03,0.0,La France insoumise,0.84,0.0,0.13,0.03,0.0
+val-de-marne,La France insoumise,0.59,0.0,0.02,0.39,0.0,La France insoumise,0.67,0.0,0.0,0.33,0.0,La France insoumise,0.62,0.0,0.01,0.37,0.0,La France insoumise,0.6,0.0,0.02,0.38,0.0
+val-d'oise,La France insoumise,0.52,0.0,0.32,0.16,0.0,La France insoumise,0.69,0.0,0.07,0.24,0.0,La France insoumise,0.59,0.0,0.19,0.22,0.0,La France insoumise,0.56,0.0,0.26,0.18,0.0
